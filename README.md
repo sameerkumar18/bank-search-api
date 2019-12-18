@@ -1,6 +1,6 @@
 # India Bank Search API 🇮🇳
-About the Free & Open API: Free to use for all purposes personal/commerical etc.
-No authorization at all. No rate limits. I will update data once every few months.
+About the Free & Open API: Free to use for all purposes personal/commercial etc.
+No authorization at all. No rate limits. I will update data of the branches once every few months.
 
 Get Indian Bank's branch information like IFSC, MICR, Exact address, transfer facility information.
 Input: Any Indian Bank Name string with an branch-name or address or area of the branch.
