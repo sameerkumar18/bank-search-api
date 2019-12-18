@@ -10,7 +10,7 @@ CORS(app, support_credentials=True)
 class BankSearchLanding(views.MethodView):
 
     def get(self):
-        return make_response(jsonify({'homepage': 'hello'}))
+        return make_response(jsonify({'documentation': 'https://documenter.getpostman.com/view/842558/SWECXvsn'}))
 
     def post(self):
         return make_response(jsonify({'message': 'Incorrect Endpoint. Please use /api'}))
