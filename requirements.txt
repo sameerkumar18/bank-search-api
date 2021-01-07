@@ -7,7 +7,7 @@ Jinja2==2.10.3
 Werkzeug==0.15.3
 requests==2.20.0
 beautifulsoup4==4.6.3
-lxml==4.2.5
+lxml==4.6.2
 flask_cors==3.0.8
 gevent==1.4.0
 pandas==0.25.3
