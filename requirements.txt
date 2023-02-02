@@ -4,7 +4,7 @@ Flask==1.1.1
 gunicorn==20.0.4
 httplib2==0.18.0
 Jinja2==2.10.3
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 requests==2.20.0
 beautifulsoup4==4.6.3
 lxml==4.2.5
